@@ -1,0 +1,2 @@
+# latihancolab2
+contoh
